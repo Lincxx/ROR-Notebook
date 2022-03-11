@@ -17,3 +17,11 @@
 // For example, to change the default status-tag color:
 //
 //   .status_tag { background: #6090DB; }
+
+
+.note-body {
+    padding: 1rem;
+    margin: 1rem;
+    background-color: #e6e6e6;
+    box-shadow: 2px 5px 10px -1px rgba(0,0,0,0.29);
+}
